@@ -11,7 +11,7 @@ I'm Nobi, a Full-Stack Developer and Graphics Designer. I like to program and fi
 - 📌 I’m currently working on Gentlbot and Delta
 - :seedling: I’m learning HTML and CSS
 - :computer: Most used line of code `”node ."`
-- 🎯 Goals for 2021: Collab with other Developers
+- 🎯 Goals for 2022: Develop Python Games
 - ⚡ Fun fact: I’m a self-taught programmer.
 
 #### Top Languages
