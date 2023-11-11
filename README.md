@@ -8,10 +8,10 @@ I'm Nobi, a Full-Stack Developer and Graphics Designer. I like to program and fi
 
 <!-- TODO: Add last video link -->
 
-- 📌 I’m currently working on Gentlbot and Delta
-- :seedling: I’m learning HTML and CSS
+- 📌 I’m currently working on Dusk
+- :seedling: I’m learning Python
 - :computer: Most used line of code `”node ."`
-- 🎯 Goals for 2022: Develop Python Games
+- 🎯 Goals for 2024: Develop Python Games
 - ⚡ Fun fact: I’m a self-taught programmer.
 
 #### Top Languages
