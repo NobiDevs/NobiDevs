@@ -10,7 +10,7 @@ I'm Nobi, a Full-Stack Developer and Graphics Designer. I like to program and fi
 
 - 📌 I’m currently working on Dusk
 - :seedling: I’m learning Python
-- :computer: Most used line of code `”node ."`
+- :computer: Most used line of code `”print()"`
 - 🎯 Goals for 2024: Develop Python Games
 - ⚡ Fun fact: I’m a self-taught programmer.
 
