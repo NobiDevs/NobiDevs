@@ -8,7 +8,7 @@ I'm Nobi, a Developer and Graphics Designer. I like to program and find myself s
 
 <!-- TODO: Add last video link -->
 
-- 📌 I’m currently working on Dusk
+- 📌 I’m currently working on **Clue**
 - :seedling: I’m learning Python
 - :computer: Most used line of code `”print()"`
 - 🎯 Goals for 2024: Develop Python Games
