@@ -30,7 +30,7 @@
 
 📌 Tasks
 ```
-- Working on Clue
+- Working on Cue
 ```
 <p>&nbsp;</p>  
 
