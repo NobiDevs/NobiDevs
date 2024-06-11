@@ -19,6 +19,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 </p>
  
 &nbsp; 
@@ -28,20 +29,27 @@
 &nbsp;  
 
 📌 Tasks
+```
 - Working on **Clue**
+```
 <p>&nbsp;</p>  
 
 🌱 Learning
+```
  - Python
  - Java
+ - TypeScript
+```
 <p>&nbsp;</p>
    
 <!-- - 💻 Most used line of code `”print()"`
 <p>&nbsp;</p>  -->
   
 🎯 Goals for 2024
+```
   - Develop Python Games
   - Work on summer projects
+```
 <p>&nbsp;</p>
 
 `⚡ Fun fact: I’m a self-taught programmer.`
