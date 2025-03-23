@@ -6,8 +6,8 @@
 [![](https://visitcount.itsvg.in/api?id=NobiDevs&label=profile%20views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 
-<h3 align="center">A junior at GNHS Highschoool</h3>
-<p align="center">I'm Nobi, a developer and graphics designer. I like making things and solving problems in my free time.</p>
+<h3 align="center">A junior at GNHS Highschool</h3>
+<p align="center">I'm Eli, a developer and graphics designer. I like making things and solving problems in my free time.</p>
 
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -19,7 +19,6 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 </p>
  
 &nbsp; 
@@ -30,7 +29,8 @@
 
 📌 Tasks
 ```
-- Working on Cue
+- Stratos
+- Cue
 ```
 <p>&nbsp;</p>  
 
@@ -38,17 +38,15 @@
 ```
  - Python
  - Java
- - TypeScript
 ```
 <p>&nbsp;</p>
    
 <!-- - 💻 Most used line of code `”print()"`
 <p>&nbsp;</p>  -->
   
-🎯 Goals for 2024
+🎯 Goals for 2025
 ```
-  - Develop Python Games
-  - Work on summer projects
+  - Work on passion projects
 ```
 <p>&nbsp;</p>
 
