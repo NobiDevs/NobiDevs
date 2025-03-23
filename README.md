@@ -30,7 +30,7 @@
 📌 Tasks
 ```
 - Stratos
-- Cue
+- WordWise
 ```
 <p>&nbsp;</p>  
 
