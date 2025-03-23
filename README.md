@@ -1,6 +1,4 @@
-
-
-![Welcome](https://github.com/NobiDevs/NobiDevs/assets/67208310/c448e5df-13e0-47b6-a24f-9118f1d44736)
+![Welcome](https://github.com/user-attachments/assets/26f47262-a442-4a64-93fc-b9a024601581)
 
 [![GitHub followers](https://img.shields.io/github/followers/NobiDevs.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NobiDevs?tab=followers)
 [![](https://visitcount.itsvg.in/api?id=NobiDevs&label=profile%20views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
