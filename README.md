@@ -27,7 +27,7 @@
 
 📌 Tasks
 ```
-- PRTCL
+- pRTC
 - Strato
 - WordWise (postponed)
 ```
