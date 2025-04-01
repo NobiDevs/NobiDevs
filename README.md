@@ -27,15 +27,16 @@
 
 📌 Tasks
 ```
-- Stratos
-- WordWise
+- PRTCL
+- Strato
+- WordWise (postponed)
 ```
 <p>&nbsp;</p>  
 
 🌱 Learning
 ```
- - Python
  - Java
+ - Python
 ```
 <p>&nbsp;</p>
    
