@@ -28,7 +28,8 @@
 📌 Tasks
 ```
 - pRTC
-- Strato
+- Macro
+- Strato (postponed)
 - WordWise (postponed)
 ```
 <p>&nbsp;</p>  
