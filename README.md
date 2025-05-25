@@ -27,10 +27,10 @@
 
 📌 Tasks
 ```
-- pRTC
-- Macro
-- Strato (postponed)
+- node
+- NoCrumbs
 - WordWise (postponed)
+- Strato (postponed)
 ```
 <p>&nbsp;</p>  
 
