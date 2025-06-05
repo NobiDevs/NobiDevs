@@ -15,7 +15,8 @@
 -->
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF">
+<img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000"> 
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
 </p>
  
@@ -28,6 +29,7 @@
 📌 Tasks
 ```
 - node
+- Loom
 - NoCrumbs
 - WordWise (postponed)
 - Strato (postponed)
@@ -36,7 +38,7 @@
 
 🌱 Learning
 ```
- - Java
+ - TypeScript
  - Python
 ```
 <p>&nbsp;</p>
