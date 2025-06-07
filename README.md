@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=NobiDevs&label=profile%20views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 
-<h3 align="center">A junior at GNHS Highschool</h3>
+<h3 align="center">A senior at GNHS Highschool</h3>
 <p align="center">I'm Eli, a developer and graphics designer. I like making things and solving problems in my free time.</p>
 
 
@@ -39,7 +39,7 @@
 🌱 Learning
 ```
  - TypeScript
- - Python
+ - Rust
 ```
 <p>&nbsp;</p>
    
