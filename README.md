@@ -29,6 +29,7 @@
 📌 Tasks
 ```
 - node
+- axisOS
 - Loom
 - NoCrumbs
 - WordWise (postponed)
