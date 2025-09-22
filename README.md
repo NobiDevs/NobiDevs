@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=NobiDevs&label=profile%20views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 
-<h3 align="center">A senior at GNHS Highschool</h3>
+<h3 align="center">A Senior in Highschool</h3>
 <p align="center">I'm Eli, a developer and graphics designer. I like making things and solving problems in my free time.</p>
 
 
@@ -28,10 +28,11 @@
 
 📌 Tasks
 ```
-- node
-- axisOS
-- Loom
-- NoCrumbs
+- ACT Score Hider (done?)
+- node (WIP)
+- axisOS (postponed)
+- Loom (done?)
+- NoCrumbs (postponed)
 - WordWise (postponed)
 - Strato (postponed)
 ```
@@ -53,7 +54,7 @@
 ```
 <p>&nbsp;</p>
 
-`⚡ Fun fact: I’m a self-taught programmer.`
+`⚡ Fun fact: I’m a self-taught programmer who's been programming since 12.`
 
 &nbsp;
 
