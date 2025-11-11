@@ -28,11 +28,9 @@
 
 📌 Tasks
 ```
-- SAT Score Hider (WIP)
-- ACT Score Hider (done?)
 - node (WIP)
-- axisOS (postponed)
 - Loom (done?)
+- nOS (postponed)
 - NoCrumbs (postponed)
 - WordWise (postponed)
 - Strato (postponed)
