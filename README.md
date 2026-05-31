@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=NobiDevs&label=profile%20views&color=12&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 
-<h3 align="center">A Senior in Highschool</h3>
+<h3 align="center">A freshman in University</h3>
 <p align="center">I'm Eli, a developer and graphics designer. I like making things and solving problems in my free time.</p>
 
 
@@ -28,26 +28,24 @@
 
 📌 Tasks
 ```
-- node (WIP)
-- Loom (done?)
+- rho (WIP)
+- node (postponed)
 - nOS (postponed)
-- NoCrumbs (postponed)
 - WordWise (postponed)
-- Strato (postponed)
 ```
 <p>&nbsp;</p>  
 
 🌱 Learning
 ```
- - TypeScript
- - Rust
+ - Python
+ - Pygame
 ```
 <p>&nbsp;</p>
    
 <!-- - 💻 Most used line of code `”print()"`
 <p>&nbsp;</p>  -->
   
-🎯 Goals for 2025
+🎯 Goals for 2026
 ```
   - Work on passion projects
 ```
